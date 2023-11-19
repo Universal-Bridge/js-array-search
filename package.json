@@ -1,0 +1,25 @@
+{
+  "name": "js-array-search",
+  "version": "1.0.0",
+  "description": "Javascript custom array object search function",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Universal-Bridge/js-array-search.git"
+  },
+  "keywords": [
+    "javascript",
+    "search",
+    "array",
+    "object"
+  ],
+  "author": "Universal Bridge Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Universal-Bridge/js-array-search/issues"
+  },
+  "homepage": "https://github.com/Universal-Bridge/js-array-search#readme"
+}
